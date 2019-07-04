@@ -1,10 +1,10 @@
 package day18;
 
-public class DemoTest1 extends Httpservelt{
-	@Override
+public class DemoTest1{
+
 	private void doget() {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
-		System.out.print("ÄãºÃ");
+		// TODO ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ÉµÄ·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		System.out.print("ï¿½ï¿½ï¿½");
 
 	}
 
